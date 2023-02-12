@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
-
 # Introduction to understand how compile Python
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
 
 > This repository was created to understand how a `python` file can be compiled to generate an `.exe` file.
 ![screenshot](./app_screenshot.png)
@@ -95,5 +95,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Uneweb: For letting us start this journey
-Google: For letting us find crucial information in order to create this project
+- Uneweb: For letting us start this journey
+- Google: For letting us find crucial information in order to create this project
+
+## 📝 License
+
+This project is [CC0-1.0](LICENSE) licensed.
